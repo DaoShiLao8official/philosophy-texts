@@ -21,5 +21,12 @@
 | 布兰顿 | [推论主义、规范性实用主义与元语言表达主义.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E6%8E%A8%E8%AE%BA%E4%B8%BB%E4%B9%89%E3%80%81%E8%A7%84%E8%8C%83%E6%80%A7%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%85%83%E8%AF%AD%E8%A8%80%E8%A1%A8%E8%BE%BE%E4%B8%BB%E4%B9%89.docx) | 罗伯特·布兰顿 | 布兰顿的哲学 |
 | 麦克道威尔 | [塞拉斯论康德.docx](%E9%BA%A6%E5%85%8B%E9%81%93%E5%A8%81%E5%B0%94/%E5%A1%9E%E6%8B%89%E6%96%AF%E8%AE%BA%E5%BA%B7%E5%BE%B7.docx) | 约翰·麦克道威尔 | 塞拉斯与康德 |
 | 拉康 | [Introduction to the Reading of Lacan.docx](%E6%8B%89%E5%BA%B7/Introduction%20to%20the%20Reading%20of%20Lacan.docx) | Joël Dor | 拉康 |
+| 海德格尔 | [哲学的基本问题.docx](%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94/%E5%93%B2%E5%AD%A6%E7%9A%84%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.docx) | 马丁·海德格尔 | 《哲学的基本问题——逻辑问题选讲》 |
+| 布兰顿 | [信任的精神.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E4%BF%A1%E4%BB%BB%E7%9A%84%E7%B2%BE%E7%A5%9E.docx) | 罗伯特·布兰顿 | 黑格尔《精神现象学》 |
+| 拉康 | [精神分析的四个基本概念.docx](%E6%8B%89%E5%BA%B7/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.docx) | 雅克·拉康 | 拉康研讨班第十一卷 |
+| translations/（本目录） | [时间中的热力学箭头(SEP).docx](%E6%97%B6%E9%97%B4%E4%B8%AD%E7%9A%84%E7%83%AD%E5%8A%9B%E5%AD%A6%E7%AE%AD%E5%A4%B4%28SEP%29.docx) | Craig Callender | 热力学时间不对称性，主题型 SEP 条目 |
+| 布兰顿 | [康德关于心智、意义与理性的教诲.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%BA%B7%E5%BE%B7%E5%85%B3%E4%BA%8E%E5%BF%83%E6%99%BA%E3%80%81%E6%84%8F%E4%B9%89%E4%B8%8E%E7%90%86%E6%80%A7%E7%9A%84%E6%95%99%E8%AF%B2.docx) | 罗伯特·布兰顿 | 康德 |
+| 拉康 | [精神分析的伦理.docx](%E6%8B%89%E5%BA%B7/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%9A%84%E4%BC%A6%E7%90%86.docx) | 雅克·拉康 | 拉康研讨班第七卷 |
+| 德勒兹 | [休谟：经验主义与主体性.docx](%E5%BE%B7%E5%8B%92%E5%85%B9/%E4%BC%91%E8%B0%9F%EF%BC%9A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E4%B8%BB%E4%BD%93%E6%80%A7.docx) | 吉尔·德勒兹 | 休谟 |
 
 原有弗雷格与弗洛伊德项目见对应人物目录。
