@@ -1,0 +1,23 @@
+# 编辑器与操作系统临时文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# 凭据与本地配置
+.env
+.env.*
+!.env.example
+
+# LaTeX 编译中间文件
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
