@@ -2,6 +2,8 @@
 
 本目录按人物整理翻译项目。同一人物目录可以同时收录该人物的一手文献和相关二手文献。项目文件的存在不表示译稿已经完成。
 
+同名 `.docx` 与 `.md` 文件保存相同文本；Markdown 版于 2026-10-13 从 Word 版转换，保留脚注、表格、公式及图片。图片资源存放在 `_media/`。后续修改其中一个版本时，需同步另一个版本。
+
 ## 分类规则
 
 - 一手文献通常归入原作者目录；二手文献通常归入主要研究对象目录。
@@ -14,28 +16,28 @@
 
 | 人物目录 | 项目文件 | 原作者 | 内容或研究对象 |
 | --- | --- | --- | --- |
-| 塞拉斯 | [经验主义与心灵哲学.docx](%E5%A1%9E%E6%8B%89%E6%96%AF/%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6.docx) | 威尔弗里德·塞拉斯 | 塞拉斯的原著 |
-| 达米特 | [分析哲学的起源.docx](%E8%BE%BE%E7%B1%B3%E7%89%B9/%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B5%B7%E6%BA%90.docx) | 迈克尔·达米特 | 分析哲学史，涉及多位哲学家 |
-| 布兰顿 | [塞拉斯的《经验主义与心灵哲学》(罗伯特·布兰顿).docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%A1%9E%E6%8B%89%E6%96%AF%E7%9A%84%E3%80%8A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6%E3%80%8B(%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%B8%83%E5%85%B0%E9%A1%BF).docx) | 罗伯特·布兰顿 | 塞拉斯 |
-| 布兰顿 | [克服概念与原因的二元论 《经验主义与心灵哲学》的基本论证.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%85%8B%E6%9C%8D%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%8E%9F%E5%9B%A0%E7%9A%84%E4%BA%8C%E5%85%83%E8%AE%BA%20%E3%80%8A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6%E3%80%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AE%BA%E8%AF%81.docx) | 罗伯特·布兰顿 | 塞拉斯 |
-| 布兰顿 | [推论主义、规范性实用主义与元语言表达主义.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E6%8E%A8%E8%AE%BA%E4%B8%BB%E4%B9%89%E3%80%81%E8%A7%84%E8%8C%83%E6%80%A7%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%85%83%E8%AF%AD%E8%A8%80%E8%A1%A8%E8%BE%BE%E4%B8%BB%E4%B9%89.docx) | 罗伯特·布兰顿 | 布兰顿的哲学 |
-| 麦克道威尔 | [塞拉斯论康德.docx](%E9%BA%A6%E5%85%8B%E9%81%93%E5%A8%81%E5%B0%94/%E5%A1%9E%E6%8B%89%E6%96%AF%E8%AE%BA%E5%BA%B7%E5%BE%B7.docx) | 约翰·麦克道威尔 | 塞拉斯与康德 |
-| 拉康 | [Introduction to the Reading of Lacan.docx](%E6%8B%89%E5%BA%B7/Introduction%20to%20the%20Reading%20of%20Lacan.docx) | Joël Dor | 拉康 |
-| 海德格尔 | [哲学的基本问题.docx](%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94/%E5%93%B2%E5%AD%A6%E7%9A%84%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.docx) | 马丁·海德格尔 | 《哲学的基本问题——逻辑问题选讲》 |
-| 布兰顿 | [信任的精神.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E4%BF%A1%E4%BB%BB%E7%9A%84%E7%B2%BE%E7%A5%9E.docx) | 罗伯特·布兰顿 | 黑格尔《精神现象学》 |
-| 拉康 | [精神分析的四个基本概念.docx](%E6%8B%89%E5%BA%B7/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.docx) | 雅克·拉康 | 拉康研讨班第十一卷 |
-| translations/（本目录） | [时间中的热力学箭头(SEP).docx](%E6%97%B6%E9%97%B4%E4%B8%AD%E7%9A%84%E7%83%AD%E5%8A%9B%E5%AD%A6%E7%AE%AD%E5%A4%B4%28SEP%29.docx) | Craig Callender | 热力学时间不对称性，主题型 SEP 条目 |
-| 布兰顿 | [康德关于心智、意义与理性的教诲.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%BA%B7%E5%BE%B7%E5%85%B3%E4%BA%8E%E5%BF%83%E6%99%BA%E3%80%81%E6%84%8F%E4%B9%89%E4%B8%8E%E7%90%86%E6%80%A7%E7%9A%84%E6%95%99%E8%AF%B2.docx) | 罗伯特·布兰顿 | 康德 |
-| 拉康 | [精神分析的伦理.docx](%E6%8B%89%E5%BA%B7/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%9A%84%E4%BC%A6%E7%90%86.docx) | 雅克·拉康 | 拉康研讨班第七卷 |
-| 德勒兹 | [休谟：经验主义与主体性.docx](%E5%BE%B7%E5%8B%92%E5%85%B9/%E4%BC%91%E8%B0%9F%EF%BC%9A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E4%B8%BB%E4%BD%93%E6%80%A7.docx) | 吉尔·德勒兹 | 休谟 |
-| 扎哈维 | [主体性与自身性.docx](%E6%89%8E%E5%93%88%E7%BB%B4/%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%8E%E8%87%AA%E8%BA%AB%E6%80%A7.docx) | 丹·扎哈维 | 主体性、自身性与第一人称视角 |
-| 奎因 | [经验论的两个教条.docx](%E5%A5%8E%E5%9B%A0/%E7%BB%8F%E9%AA%8C%E8%AE%BA%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%99%E6%9D%A1.docx) | 威拉德·范·奥曼·奎因 | 对经验主义两项教条的批判 |
-| 亨里希 | [在康德与黑格尔之间.docx](%E4%BA%A8%E9%87%8C%E5%B8%8C/%E5%9C%A8%E5%BA%B7%E5%BE%B7%E4%B8%8E%E9%BB%91%E6%A0%BC%E5%B0%94%E4%B9%8B%E9%97%B4.docx) | 迪特尔·亨里希 | 德国观念论，康德至黑格尔 |
-| 康德 | [康德的先验观念论.docx](%E5%BA%B7%E5%BE%B7/%E5%BA%B7%E5%BE%B7%E7%9A%84%E5%85%88%E9%AA%8C%E8%A7%82%E5%BF%B5%E8%AE%BA.docx) | 亨利·阿利森 | 康德 |
-| 亨里希 | [先验演绎的论证结构.docx](%E4%BA%A8%E9%87%8C%E5%B8%8C/%E5%85%88%E9%AA%8C%E6%BC%94%E7%BB%8E%E7%9A%84%E8%AE%BA%E8%AF%81%E7%BB%93%E6%9E%84.docx) | 迪特尔·亨里希 | 康德的先验演绎 |
-| translations/（本目录） | [SEP心智的计算理论.docx](SEP%E5%BF%83%E6%99%BA%E7%9A%84%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA.docx) | Michael Rescorla | 心智的计算理论，SEP 主题条目 |
-| translations/（本目录） | [泛心论.docx](%E6%B3%9B%E5%BF%83%E8%AE%BA.docx) | Philip Goff；William Seager；Sean Allen-Hermanson | 泛心论，SEP 主题条目 |
-| 查尔莫斯 | [大语言模型可能拥有意识吗？.docx](%E6%9F%A5%E5%B0%94%E8%8E%AB%E6%96%AF/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%83%BD%E6%8B%A5%E6%9C%89%E6%84%8F%E8%AF%86%E5%90%97%EF%BC%9F.docx) | 大卫·查尔莫斯 | 大语言模型与意识 |
-| translations/（本目录） | [感质-斯坦福哲学百科.docx](%E6%84%9F%E8%B4%A8-%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%93%B2%E5%AD%A6%E7%99%BE%E7%A7%91.docx) | Michael Tye | 感质，SEP 主题条目 |
+| 塞拉斯 | [经验主义与心灵哲学.docx](%E5%A1%9E%E6%8B%89%E6%96%AF/%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6.docx) · [Markdown](%E5%A1%9E%E6%8B%89%E6%96%AF/%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6.md) | 威尔弗里德·塞拉斯 | 塞拉斯的原著 |
+| 达米特 | [分析哲学的起源.docx](%E8%BE%BE%E7%B1%B3%E7%89%B9/%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B5%B7%E6%BA%90.docx) · [Markdown](%E8%BE%BE%E7%B1%B3%E7%89%B9/%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6%E7%9A%84%E8%B5%B7%E6%BA%90.md) | 迈克尔·达米特 | 分析哲学史，涉及多位哲学家 |
+| 布兰顿 | [塞拉斯的《经验主义与心灵哲学》(罗伯特·布兰顿).docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%A1%9E%E6%8B%89%E6%96%AF%E7%9A%84%E3%80%8A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6%E3%80%8B(%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%B8%83%E5%85%B0%E9%A1%BF).docx) · [Markdown](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%A1%9E%E6%8B%89%E6%96%AF%E7%9A%84%E3%80%8A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6%E3%80%8B%28%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%B8%83%E5%85%B0%E9%A1%BF%29.md) | 罗伯特·布兰顿 | 塞拉斯 |
+| 布兰顿 | [克服概念与原因的二元论 《经验主义与心灵哲学》的基本论证.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%85%8B%E6%9C%8D%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%8E%9F%E5%9B%A0%E7%9A%84%E4%BA%8C%E5%85%83%E8%AE%BA%20%E3%80%8A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6%E3%80%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AE%BA%E8%AF%81.docx) · [Markdown](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%85%8B%E6%9C%8D%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%8E%9F%E5%9B%A0%E7%9A%84%E4%BA%8C%E5%85%83%E8%AE%BA%20%E3%80%8A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%BF%83%E7%81%B5%E5%93%B2%E5%AD%A6%E3%80%8B%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AE%BA%E8%AF%81.md) | 罗伯特·布兰顿 | 塞拉斯 |
+| 布兰顿 | [推论主义、规范性实用主义与元语言表达主义.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E6%8E%A8%E8%AE%BA%E4%B8%BB%E4%B9%89%E3%80%81%E8%A7%84%E8%8C%83%E6%80%A7%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%85%83%E8%AF%AD%E8%A8%80%E8%A1%A8%E8%BE%BE%E4%B8%BB%E4%B9%89.docx) · [Markdown](%E5%B8%83%E5%85%B0%E9%A1%BF/%E6%8E%A8%E8%AE%BA%E4%B8%BB%E4%B9%89%E3%80%81%E8%A7%84%E8%8C%83%E6%80%A7%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E4%B8%8E%E5%85%83%E8%AF%AD%E8%A8%80%E8%A1%A8%E8%BE%BE%E4%B8%BB%E4%B9%89.md) | 罗伯特·布兰顿 | 布兰顿的哲学 |
+| 麦克道威尔 | [塞拉斯论康德.docx](%E9%BA%A6%E5%85%8B%E9%81%93%E5%A8%81%E5%B0%94/%E5%A1%9E%E6%8B%89%E6%96%AF%E8%AE%BA%E5%BA%B7%E5%BE%B7.docx) · [Markdown](%E9%BA%A6%E5%85%8B%E9%81%93%E5%A8%81%E5%B0%94/%E5%A1%9E%E6%8B%89%E6%96%AF%E8%AE%BA%E5%BA%B7%E5%BE%B7.md) | 约翰·麦克道威尔 | 塞拉斯与康德 |
+| 拉康 | [Introduction to the Reading of Lacan.docx](%E6%8B%89%E5%BA%B7/Introduction%20to%20the%20Reading%20of%20Lacan.docx) · [Markdown](%E6%8B%89%E5%BA%B7/Introduction%20to%20the%20Reading%20of%20Lacan.md) | Joël Dor | 拉康 |
+| 海德格尔 | [哲学的基本问题.docx](%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94/%E5%93%B2%E5%AD%A6%E7%9A%84%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.docx) · [Markdown](%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94/%E5%93%B2%E5%AD%A6%E7%9A%84%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98.md) | 马丁·海德格尔 | 《哲学的基本问题——逻辑问题选讲》 |
+| 布兰顿 | [信任的精神.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E4%BF%A1%E4%BB%BB%E7%9A%84%E7%B2%BE%E7%A5%9E.docx) · [Markdown](%E5%B8%83%E5%85%B0%E9%A1%BF/%E4%BF%A1%E4%BB%BB%E7%9A%84%E7%B2%BE%E7%A5%9E.md) | 罗伯特·布兰顿 | 黑格尔《精神现象学》 |
+| 拉康 | [精神分析的四个基本概念.docx](%E6%8B%89%E5%BA%B7/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.docx) · [Markdown](%E6%8B%89%E5%BA%B7/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md) | 雅克·拉康 | 拉康研讨班第十一卷 |
+| translations/（本目录） | [时间中的热力学箭头(SEP).docx](%E6%97%B6%E9%97%B4%E4%B8%AD%E7%9A%84%E7%83%AD%E5%8A%9B%E5%AD%A6%E7%AE%AD%E5%A4%B4%28SEP%29.docx) · [Markdown](%E6%97%B6%E9%97%B4%E4%B8%AD%E7%9A%84%E7%83%AD%E5%8A%9B%E5%AD%A6%E7%AE%AD%E5%A4%B4%28SEP%29.md) | Craig Callender | 热力学时间不对称性，主题型 SEP 条目 |
+| 布兰顿 | [康德关于心智、意义与理性的教诲.docx](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%BA%B7%E5%BE%B7%E5%85%B3%E4%BA%8E%E5%BF%83%E6%99%BA%E3%80%81%E6%84%8F%E4%B9%89%E4%B8%8E%E7%90%86%E6%80%A7%E7%9A%84%E6%95%99%E8%AF%B2.docx) · [Markdown](%E5%B8%83%E5%85%B0%E9%A1%BF/%E5%BA%B7%E5%BE%B7%E5%85%B3%E4%BA%8E%E5%BF%83%E6%99%BA%E3%80%81%E6%84%8F%E4%B9%89%E4%B8%8E%E7%90%86%E6%80%A7%E7%9A%84%E6%95%99%E8%AF%B2.md) | 罗伯特·布兰顿 | 康德 |
+| 拉康 | [精神分析的伦理.docx](%E6%8B%89%E5%BA%B7/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%9A%84%E4%BC%A6%E7%90%86.docx) · [Markdown](%E6%8B%89%E5%BA%B7/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90%E7%9A%84%E4%BC%A6%E7%90%86.md) | 雅克·拉康 | 拉康研讨班第七卷 |
+| 德勒兹 | [休谟：经验主义与主体性.docx](%E5%BE%B7%E5%8B%92%E5%85%B9/%E4%BC%91%E8%B0%9F%EF%BC%9A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E4%B8%BB%E4%BD%93%E6%80%A7.docx) · [Markdown](%E5%BE%B7%E5%8B%92%E5%85%B9/%E4%BC%91%E8%B0%9F%EF%BC%9A%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89%E4%B8%8E%E4%B8%BB%E4%BD%93%E6%80%A7.md) | 吉尔·德勒兹 | 休谟 |
+| 扎哈维 | [主体性与自身性.docx](%E6%89%8E%E5%93%88%E7%BB%B4/%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%8E%E8%87%AA%E8%BA%AB%E6%80%A7.docx) · [Markdown](%E6%89%8E%E5%93%88%E7%BB%B4/%E4%B8%BB%E4%BD%93%E6%80%A7%E4%B8%8E%E8%87%AA%E8%BA%AB%E6%80%A7.md) | 丹·扎哈维 | 主体性、自身性与第一人称视角 |
+| 奎因 | [经验论的两个教条.docx](%E5%A5%8E%E5%9B%A0/%E7%BB%8F%E9%AA%8C%E8%AE%BA%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%99%E6%9D%A1.docx) · [Markdown](%E5%A5%8E%E5%9B%A0/%E7%BB%8F%E9%AA%8C%E8%AE%BA%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%99%E6%9D%A1.md) | 威拉德·范·奥曼·奎因 | 对经验主义两项教条的批判 |
+| 亨里希 | [在康德与黑格尔之间.docx](%E4%BA%A8%E9%87%8C%E5%B8%8C/%E5%9C%A8%E5%BA%B7%E5%BE%B7%E4%B8%8E%E9%BB%91%E6%A0%BC%E5%B0%94%E4%B9%8B%E9%97%B4.docx) · [Markdown](%E4%BA%A8%E9%87%8C%E5%B8%8C/%E5%9C%A8%E5%BA%B7%E5%BE%B7%E4%B8%8E%E9%BB%91%E6%A0%BC%E5%B0%94%E4%B9%8B%E9%97%B4.md) | 迪特尔·亨里希 | 德国观念论，康德至黑格尔 |
+| 康德 | [康德的先验观念论.docx](%E5%BA%B7%E5%BE%B7/%E5%BA%B7%E5%BE%B7%E7%9A%84%E5%85%88%E9%AA%8C%E8%A7%82%E5%BF%B5%E8%AE%BA.docx) · [Markdown](%E5%BA%B7%E5%BE%B7/%E5%BA%B7%E5%BE%B7%E7%9A%84%E5%85%88%E9%AA%8C%E8%A7%82%E5%BF%B5%E8%AE%BA.md) | 亨利·阿利森 | 康德 |
+| 亨里希 | [先验演绎的论证结构.docx](%E4%BA%A8%E9%87%8C%E5%B8%8C/%E5%85%88%E9%AA%8C%E6%BC%94%E7%BB%8E%E7%9A%84%E8%AE%BA%E8%AF%81%E7%BB%93%E6%9E%84.docx) · [Markdown](%E4%BA%A8%E9%87%8C%E5%B8%8C/%E5%85%88%E9%AA%8C%E6%BC%94%E7%BB%8E%E7%9A%84%E8%AE%BA%E8%AF%81%E7%BB%93%E6%9E%84.md) | 迪特尔·亨里希 | 康德的先验演绎 |
+| translations/（本目录） | [SEP心智的计算理论.docx](SEP%E5%BF%83%E6%99%BA%E7%9A%84%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA.docx) · [Markdown](SEP%E5%BF%83%E6%99%BA%E7%9A%84%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA.md) | Michael Rescorla | 心智的计算理论，SEP 主题条目 |
+| translations/（本目录） | [泛心论.docx](%E6%B3%9B%E5%BF%83%E8%AE%BA.docx) · [Markdown](%E6%B3%9B%E5%BF%83%E8%AE%BA.md) | Philip Goff；William Seager；Sean Allen-Hermanson | 泛心论，SEP 主题条目 |
+| 查尔莫斯 | [大语言模型可能拥有意识吗？.docx](%E6%9F%A5%E5%B0%94%E8%8E%AB%E6%96%AF/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%83%BD%E6%8B%A5%E6%9C%89%E6%84%8F%E8%AF%86%E5%90%97%EF%BC%9F.docx) · [Markdown](%E6%9F%A5%E5%B0%94%E8%8E%AB%E6%96%AF/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%8F%AF%E8%83%BD%E6%8B%A5%E6%9C%89%E6%84%8F%E8%AF%86%E5%90%97%EF%BC%9F.md) | 大卫·查尔莫斯 | 大语言模型与意识 |
+| translations/（本目录） | [感质-斯坦福哲学百科.docx](%E6%84%9F%E8%B4%A8-%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%93%B2%E5%AD%A6%E7%99%BE%E7%A7%91.docx) · [Markdown](%E6%84%9F%E8%B4%A8-%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%93%B2%E5%AD%A6%E7%99%BE%E7%A7%91.md) | Michael Tye | 感质，SEP 主题条目 |
 
-原有弗雷格与弗洛伊德项目见对应人物目录。
+原有项目的 Markdown 版本：[算术基础](%E5%BC%97%E9%9B%B7%E6%A0%BC/%E7%AE%97%E6%9C%AF%E5%9F%BA%E7%A1%80.md)、[弗雷格（SEP）](%E5%BC%97%E9%9B%B7%E6%A0%BC/%E5%BC%97%E9%9B%B7%E6%A0%BC%28SEP%29.md)、[超越快乐原则](%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7/%E8%B6%85%E8%B6%8A%E5%BF%AB%E4%B9%90%E5%8E%9F%E5%88%99.md)。
