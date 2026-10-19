@@ -112,6 +112,10 @@ class SyncTests(unittest.TestCase):
         self.git("add", "--", "writings/~$临时.docx")
         self.assertEqual(sync(self.root, self.pandoc)["documents"], 1)
         self.assertTrue((self.root / "writings/大写.md").exists())
+        renamed = self.root / "writings/大写.docx"
+        self.git("mv", "-f", "--", "writings/大写.DOCX", "writings/大写.docx")
+        sync(self.root, self.pandoc)
+        self.assertTrue(renamed.with_suffix(".md").exists())
 
 
 if __name__ == "__main__":

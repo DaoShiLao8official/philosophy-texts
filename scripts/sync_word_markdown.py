@@ -160,6 +160,8 @@ def sync(root, pandoc):
             expected = str(PurePosixPath(source).with_suffix(".md"))
             if not source.lower().endswith(".docx") or entry["markdown"] != expected:
                 raise ValueError(f"Invalid managed document: {source}")
+            if expected in outputs:
+                continue
             target = relative_path(root, expected)
             if target.exists():
                 if sha256(target.read_bytes()) == entry["sha256"]:
