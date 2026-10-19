@@ -1,0 +1,72 @@
+name: Word → Markdown 自动同步
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.[dD][oO][cC][xX]'
+      - 'scripts/sync_word_markdown.py'
+      - 'scripts/test_sync_word_markdown.py'
+      - '.github/workflows/word-to-markdown.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: word-to-markdown-main
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - name: 读取最新 main
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: 安装固定版本 Pandoc
+        env:
+          PANDOC_VERSION: '3.12.1'
+        run: |
+          curl --fail --location --retry 3 \
+            "https://github.com/jgm/pandoc/releases/download/${PANDOC_VERSION}/pandoc-${PANDOC_VERSION}-1-amd64.deb" \
+            --output "$RUNNER_TEMP/pandoc.deb"
+          sudo dpkg --install "$RUNNER_TEMP/pandoc.deb"
+          pandoc --version
+
+      - name: 验证转换与同步行为
+        run: python3 -m unittest discover -s scripts -p 'test_sync_word_markdown.py' -v
+
+      - name: 同步并提交 Markdown
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          for attempt in 1 2 3; do
+            git fetch origin main
+            # Only the disposable Actions checkout is reset, before regeneration.
+            git reset --hard origin/main
+            python3 scripts/sync_word_markdown.py
+            git add --all
+            if git diff --cached --quiet; then
+              echo 'Word 与 Markdown 已同步，无需提交。'
+              exit 0
+            fi
+            git commit -m '自动同步 Word 对应的 Markdown'
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo 'main 在同步期间有新提交，基于最新内容重新生成。'
+          done
+          echo '同步提交失败，请在 Actions 中查看日志后重新运行。' >&2
+          exit 1
