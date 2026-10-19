@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "documents": {
+    "translations/SEP心智的计算理论.docx": {
+      "markdown": "translations/SEP心智的计算理论.md",
+      "sha256": "6edf2255e9e0bfdfd14197e4788bd520153d52dbe9c2b4538659faeed6dcc30b"
+    },
+    "translations/亨里希/先验演绎的论证结构.docx": {
+      "markdown": "translations/亨里希/先验演绎的论证结构.md",
+      "sha256": "3ff74cb1570d42ff1ef7c7e961aae8de61c49a39adf9e6c18618bc541f7a6cc6"
+    },
+    "translations/亨里希/在康德与黑格尔之间.docx": {
+      "markdown": "translations/亨里希/在康德与黑格尔之间.md",
+      "sha256": "b2d2a3e61c811037223d9c84af81c3ef9b311c8d7a6ed8ae6cf068f1316a57a7"
+    },
+    "translations/塞拉斯/经验主义与心灵哲学.docx": {
+      "markdown": "translations/塞拉斯/经验主义与心灵哲学.md",
+      "sha256": "13a61ab5ee1c8b3902a1c4f130447fda6d2a5625a3245d79572b3a4ca200fab3"
+    },
+    "translations/奎因/经验论的两个教条.docx": {
+      "markdown": "translations/奎因/经验论的两个教条.md",
+      "sha256": "75317b1e94c31d4fe7f012d205121f20c3c116a3a3a3bd3cf32dcb8ace79ccb8"
+    },
+    "translations/布兰顿/信任的精神.docx": {
+      "markdown": "translations/布兰顿/信任的精神.md",
+      "sha256": "a30682dc5dfc38b10c9127873465bffdcf458542f49b95110159348108d1e8a9"
+    },
+    "translations/布兰顿/克服概念与原因的二元论 《经验主义与心灵哲学》的基本论证.docx": {
+      "markdown": "translations/布兰顿/克服概念与原因的二元论 《经验主义与心灵哲学》的基本论证.md",
+      "sha256": "231bb055170aa0b73df884ea9f3a34407c876d4c514044cadd07769a7082c566"
+    },
+    "translations/布兰顿/塞拉斯的《经验主义与心灵哲学》(罗伯特·布兰顿).docx": {
+      "markdown": "translations/布兰顿/塞拉斯的《经验主义与心灵哲学》(罗伯特·布兰顿).md",
+      "sha256": "e96abfec172d05643ab69f4d98b9ae311eab3850f9a02417929849bddaa6b903"
+    },
+    "translations/布兰顿/康德关于心智、意义与理性的教诲.docx": {
+      "markdown": "translations/布兰顿/康德关于心智、意义与理性的教诲.md",
+      "sha256": "12574bcda931e1afdea844b99678911be410fde2c02353735fa1bc8b590d333d"
+    },
+    "translations/布兰顿/推论主义、规范性实用主义与元语言表达主义.docx": {
+      "markdown": "translations/布兰顿/推论主义、规范性实用主义与元语言表达主义.md",
+      "sha256": "66c5a24d6969b57fb1bb3359930182d86fa3f0cf1139ce276331eba2a5174986"
+    },
+    "translations/康德/康德的先验观念论.docx": {
+      "markdown": "translations/康德/康德的先验观念论.md",
+      "sha256": "aafbe920ee0081586eb013cb6f8bb01d25f20c5e02f9bfaaeff2e9c4c4480dd8"
+    },
+    "translations/弗洛伊德/超越快乐原则.docx": {
+      "markdown": "translations/弗洛伊德/超越快乐原则.md",
+      "sha256": "9f6d8c9cd9dcdfb988b8ccc799dd78a5ccfc0415282ec0cea24c1866c4615ef2"
+    },
+    "translations/弗雷格/弗雷格(SEP).docx": {
+      "markdown": "translations/弗雷格/弗雷格(SEP).md",
+      "sha256": "98c7b1df682cf9fce832e97388db7aa537734c23f644fbf32d1f03008d793bbf"
+    },
+    "translations/弗雷格/算术基础.docx": {
+      "markdown": "translations/弗雷格/算术基础.md",
+      "sha256": "f7cd4cca43a1a7375e29914e33c98c82a32e636d37e8f7744d47472aebc20cf3"
+    },
+    "translations/德勒兹/休谟：经验主义与主体性.docx": {
+      "markdown": "translations/德勒兹/休谟：经验主义与主体性.md",
+      "sha256": "b526044123a44122e59d43131cf50d09af3d6350e079b1eb69239f507a6fe231"
+    },
+    "translations/感质-斯坦福哲学百科.docx": {
+      "markdown": "translations/感质-斯坦福哲学百科.md",
+      "sha256": "16714118ac8f528334c8e152e72fb4ee2d53ff0d142fa73b3d8f93b046084294"
+    },
+    "translations/扎哈维/主体性与自身性.docx": {
+      "markdown": "translations/扎哈维/主体性与自身性.md",
+      "sha256": "6d802d2e8d5fe21ffe700943b93dac9883b9862533dafb64821d47cd35705d27"
+    },
+    "translations/拉康/Introduction to the Reading of Lacan.docx": {
+      "markdown": "translations/拉康/Introduction to the Reading of Lacan.md",
+      "sha256": "4566ad8a12ab498a39dc349ac9c62bb849a238a69044f0b7468a6243a00787b3"
+    },
+    "translations/拉康/精神分析的伦理.docx": {
+      "markdown": "translations/拉康/精神分析的伦理.md",
+      "sha256": "7945b71503a5b8b35afa68a0bbd97c0f4e16b703e8c067b2c08ed13b124030ac"
+    },
+    "translations/拉康/精神分析的四个基本概念.docx": {
+      "markdown": "translations/拉康/精神分析的四个基本概念.md",
+      "sha256": "65d70862d10ba3c6107319fcf50183859ac5937a3b5c39e025433260e8ad28d8"
+    },
+    "translations/时间中的热力学箭头(SEP).docx": {
+      "markdown": "translations/时间中的热力学箭头(SEP).md",
+      "sha256": "fb0c7c466590eef94666c81b1dcb8f92145380ba32be654a133c86dca158567d"
+    },
+    "translations/查尔莫斯/大语言模型可能拥有意识吗？.docx": {
+      "markdown": "translations/查尔莫斯/大语言模型可能拥有意识吗？.md",
+      "sha256": "fc50b45d04008e02e107c15b1952a95973a41e1943759c2469d5572a95138b22"
+    },
+    "translations/泛心论.docx": {
+      "markdown": "translations/泛心论.md",
+      "sha256": "1246a55872579bc4a58e87245286bfcad7a0d5cfbef330331f864886b66ee8a7"
+    },
+    "translations/海德格尔/哲学的基本问题.docx": {
+      "markdown": "translations/海德格尔/哲学的基本问题.md",
+      "sha256": "ea60b3b3081c51c986974c412eff1793dc332c74af12d39c3079ad58e0d8257d"
+    },
+    "translations/达米特/分析哲学的起源.docx": {
+      "markdown": "translations/达米特/分析哲学的起源.md",
+      "sha256": "1480323920cd5329490f1d6a3c9517e17b123c4faa98f1a93b60003001c25df7"
+    },
+    "translations/麦克道威尔/塞拉斯论康德.docx": {
+      "markdown": "translations/麦克道威尔/塞拉斯论康德.md",
+      "sha256": "4afafc1be38e9fedea6313c92b76309c0ebab2b63610b5278d6a043327b19838"
+    }
+  }
+}
