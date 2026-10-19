@@ -93,6 +93,10 @@
       "markdown": "translations/泛心论.md",
       "sha256": "1246a55872579bc4a58e87245286bfcad7a0d5cfbef330331f864886b66ee8a7"
     },
+    "translations/海德格尔/Death and Demise in Being and Time.docx": {
+      "markdown": "translations/海德格尔/Death and Demise in Being and Time.md",
+      "sha256": "ccfd33bef91ca5e31ab1e8cc471aaf15d8431485a022a30c7a18df184ffda991"
+    },
     "translations/海德格尔/哲学的基本问题.docx": {
       "markdown": "translations/海德格尔/哲学的基本问题.md",
       "sha256": "ea60b3b3081c51c986974c412eff1793dc332c74af12d39c3079ad58e0d8257d"
